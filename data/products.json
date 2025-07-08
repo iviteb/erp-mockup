@@ -1,16 +1,8 @@
 [
   {
-    "id": "1",
-    "name": "Sample Product 1",
-    "sku": "SKU001",
-    "price": 29.99,
-    "stock": 100
-  },
-  {
-    "id": "2",
-    "name": "Sample Product 2",
-    "sku": "SKU002",
-    "price": 49.99,
-    "stock": 50
+    "id": "10167817568599",
+    "name": "The Adventurous Snowboard",
+    "category": null,
+    "createdAt": "2025-07-08T14:14:09.561Z"
   }
 ]
